@@ -1,5 +1,6 @@
 # 🤖 Hello human! I'm Muh Fadhil Latif, part developer, part caffeine enthusiast ☕
-![Fala](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dyc2kzeWE2YmhnYWh0b3I4dmtub2xvMzQwb2VrYXBzbXBvaGttNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZlJRdDIQw6jNC1AyE/giphy.gif)
+<!-- ![Fala](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dyc2kzeWE2YmhnYWh0b3I4dmtub2xvMzQwb2VrYXBzbXBvaGttNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZlJRdDIQw6jNC1AyE/giphy.gif) -->
+![Fala](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dkOGZkdHNzZW4zdzVzeTNmODQwaGZxa3dkcXJiaXN3YnR0MDNsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4EpeErFp4AgqiZB6/giphy.gif)
 <br>
 
 <br>
