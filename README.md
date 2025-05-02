@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Muh Fadhil Latif 👋
+
+![Fala](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp5c2g1eTR2aGczenhqYm0xcG5sdnN0dnNvMGM0dWl6d3lqeGtxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif)
 
 <!--
 **fadhilllatif021/fadhilllatif021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **@wpucourse**
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
