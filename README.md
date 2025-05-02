@@ -29,11 +29,11 @@ I have a strong grasp of developing web pages using HTML, CSS, and JavaScript.  
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fadhilllatif021/fadhilllatif021/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fadhilllatif021/fadhilllatif021/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fadhilllatif021/fadhilllatif021/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
