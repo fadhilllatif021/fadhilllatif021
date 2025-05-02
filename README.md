@@ -1,6 +1,4 @@
-# 💫 About Me:
-
-### 🤖 Hello human! I'm Muh Fadhil Latif, part developer, part caffeine enthusiast ☕<br><br>
+# 🤖 Hello human! I'm Muh Fadhil Latif, part developer, part caffeine enthusiast ☕<br><br>
 ![Fala](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dyc2kzeWE2YmhnYWh0b3I4dmtub2xvMzQwb2VrYXBzbXBvaGttNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZlJRdDIQw6jNC1AyE/giphy.gif)
 <br>
 
