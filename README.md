@@ -1,6 +1,6 @@
 ## Hello World! I'm Muh Fadhil Latif 👋
 
-![Fala](img/github-header-image.png)
+![Fala](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dyc2kzeWE2YmhnYWh0b3I4dmtub2xvMzQwb2VrYXBzbXBvaGttNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZlJRdDIQw6jNC1AyE/giphy.gif)
 
 <!--
 **fadhilllatif021/fadhilllatif021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
