@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
 
 ##### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,mysql,mongodb&perline=3)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-[![My Skills2](https://skillicons.dev/icons?i=laravel,php,express,next,nodejs,react)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=laravel,php,express,next,nodejs,react&perline=4)](https://skillicons.dev)
 
 
 ##### Connect with me
