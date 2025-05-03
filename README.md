@@ -36,6 +36,6 @@ I have a strong grasp of developing web pages using HTML, CSS, and JavaScript.  
 
 ###
 
-<img src="https://raw.githubusercontent.com/fadhilllatif021/fadhilllatif021/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fadhilllatif021/fadhilllatif021/output/dist/snake.svg" alt="Snake animation" />
 
 ###
